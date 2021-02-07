@@ -22,7 +22,7 @@ def evens(n):
     >>> evens(-1)
     []
     '''
-    return [x for x in range(10) if x % 2 == 0]
+    return [x for x in range(n+1) if x % 2 == 0]
 
 
 def threes(n):
