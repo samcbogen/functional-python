@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''
 Your solution for each function should be only a single line long.
-In particular, you may not use any loops when implementing these functions;
+In particular, you may not use loops when implementing these functions;
 instead, you must use either the map and filter functions or list comprehensions.
 '''
 
