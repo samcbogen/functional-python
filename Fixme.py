@@ -46,7 +46,7 @@ def threes(n):
 
 def small_words(text):
     '''
-    Returns a list of all words in the input text 
+    Returns a list of all words in the input text
     that are less than 4 characters long.
 
     HINT:
@@ -83,7 +83,7 @@ def squares(n):
 
 def lengths(strings):
     '''
-    Given a list of strings, returns a list 
+    Given a list of strings, returns a list
     of the lengths of the corresponding strings.
 
     >>> lengths([])
